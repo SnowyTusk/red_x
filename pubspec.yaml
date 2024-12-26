@@ -1,0 +1,12 @@
+name: red_x
+description: red_x - REactive Dependency.
+publish_to: "none"
+
+version: 1.2.0+120
+
+environment:
+  sdk: ">=3.0.0"
+
+dev_dependencies:
+  # Linters
+  lints: ^5.0.0
